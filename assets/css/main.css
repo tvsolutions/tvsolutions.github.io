@@ -17,7 +17,7 @@ body {
   background-color: #f2f2f2;
     font-family: "Lato";
     font-weight: 400;
-    font-size: 16px;
+    font-size: 17px;
     color: #555;
 
     -webkit-font-smoothing: antialiased;
@@ -31,6 +31,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Raleway";
     font-weight: 300;
     color: #333;
+    margin-bottom: 2rem;
 }
 
 
@@ -40,13 +41,29 @@ p {
     margin-bottom: 25px;
 }
 
+ul li,
+ol li {
+    line-height: 28px;
+}
+
+
+ul, ol, 
+ul li,
+ol li {
+    margin-bottom: 0.75rem;
+}
+
+ul, ol {
+    margin: 2rem 0 3rem 0;
+}
+
 .centered {
     text-align: center;
 }
 
 /* Links */
 a {
-    color: #f85c37;
+    color: #819140; /*#f85c37;*/
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -58,7 +75,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #7b7b7b;
+    color: #f85c37; /*#7b7b7b;*/
     text-decoration: none;
     outline: 0;
 }
@@ -81,11 +98,38 @@ a:after {
     padding: 0;
 }
 
+.btn-green {
+    color: #fff;
+    background: #819140;
+    font-family: 'Raleway';
+    font-weight: 600;
+    /*font-size: 30px;*/
+    text-transform: uppercase;
+    margin-top: 1rem;
+}
+
+    .w .btn-green i {
+        color: #fff;
+    }
+
+.post.btn-green {
+    float:right;
+    margin-top: 0;
+}
+
+.btn-green:hover,
+.btn-green:focus,
+.btn-green:active,
+.btn-green.active {
+  color: #ffffff;
+  background-color: #687534;
+}
+
 
 .navbar {
 	font-weight: 800;
-	font-size: 14px;
-	padding-top: 15px;
+	font-size: 18px;
+	padding-top: 25px;
 	padding-bottom: 15px;
 }
 
@@ -99,14 +143,14 @@ a:after {
 }
 
 .navbar-inverse .navbar-brand {
-	color: #999999;
+	color: #fff; /*#999999;*/
 	font-weight: bolder;
 	font-size: 22px;
 	letter-spacing: 1px;
 }
 
 .navbar-inverse .navbar-brand i {
-	color: #819140;
+	color: #819140; /*#999999;*/
 	font-size: 22px;
 	letter-spacing: 1px;
 }
@@ -409,4 +453,51 @@ a:after {
     background: #819140;
 }
 
+.page h1 {
+    padding-bottom: 2rem;
+}
+
+/* == BLOG == */
+.container.page {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.blog #dg {
+    padding: 1em;
+}
+
+.blog .post-list {
+    margin-bottom: 5rem;
+}
+
+    .blog .post-list h3 {
+        font-weight: bold;
+    }
+
+
+.flex-video {
+position: relative;
+padding-top: 25px;
+padding-bottom: 67.5%;
+height: 0;
+margin-bottom: 16px;
+overflow: hidden;
+}
+ 
+.flex-video.widescreen { padding-bottom: 57.25%; }
+.flex-video.vimeo { padding-top: 0; }
+ 
+.flex-video iframe,
+.flex-video object,
+.flex-video embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+@media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
+.flex-video { padding-top: 0; }
+}
 

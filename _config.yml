@@ -1,3 +1,9 @@
 name: TV Solutions
 markdown: redcarpet
 pygments: true
+permalink: /blog/:year/:month/:day/:title.html
+
+picture:
+  source: "assets/img"
+  output: "generated"
+  markup: "picturefill"
