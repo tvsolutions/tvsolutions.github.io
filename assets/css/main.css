@@ -140,8 +140,8 @@ a:after {
 .navbar {
 	font-weight: 800;
 	font-size: 18px;
-	padding-top: 25px;
-	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-bottom: 5px;
 }
 
 .navbar-inverse {
