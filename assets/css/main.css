@@ -144,6 +144,10 @@ a:after {
 	padding-bottom: 5px;
 }
 
+.navbar-social {
+
+}
+
 .navbar-social i {
     color: #bdbdbd;
     font-size: 30px;
@@ -175,6 +179,48 @@ a:after {
 	color: #819140; /*#999999;*/
 	font-size: 22px;
 	letter-spacing: 1px;
+}
+
+/* ==========================================================================
+   Social Media Icons
+   ========================================================================== */
+
+#sticky-anchor{
+    position: absolute;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding-box;
+    background-clip: padding-box;
+    background-color: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    -webkit-box-shadow: 0 0 3px #CCCCCC;
+    -moz-box-shadow: 0 0 3px #CCCCCC;
+    box-shadow: 0 0 3px #CCCCCC;
+    font-family: Arial;
+    font-size: 10px;
+    line-height: 16px;
+    padding: 5px 10px 5px 5px;
+    text-align: center;
+    width: 55px;
+    z-index: 9999;
+    margin-right: 10px;
+    margin-top: 190px;
+    border: 1px solid #DDDDDD;
+    float: left;
+    margin-left:-85px;
+    text-align:center;
+}
+.sticky{
+
+}
+#sticky-anchor.stick{
+    position:fixed;
+    top:50px;
+}
+#sticky-anchor .fb-like{
+    padding:5px 5px;
 }
 
 /*TILT*/

@@ -8,6 +8,7 @@ layout: page
           <a href="{{ page.buy }}" class="post btn btn-green">BUY IT NOW <i class="fa fa-shopping-cart"></i></a>
           <h1>{{ page.title }} </h1>
           <h5><i class="fa fa-clock-o"></i> {{ page.date | date: '%B %d, %Y' }}</h5>
+          {% include social.html %}
           {{ content }}
         </div>
       </div>
