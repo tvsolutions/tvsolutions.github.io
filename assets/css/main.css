@@ -61,6 +61,10 @@ ul, ol {
     text-align: center;
 }
 
+.centered img {
+    margin: 0 auto;
+}
+
 /* Links */
 a {
     color: #819140; /*#f85c37;*/

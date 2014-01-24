@@ -7,6 +7,9 @@ excerpt: Allowing your device to stream content from the UK can be challenging a
 buy: http://www.overplay.net/#a_aid=tvsolutions
 ---
 
+<div class="centered"><img src="{{ site.url }}/assets/img/overplay-logo.png" class="img-responsive"/>
+<small>Credit: overplay.net</small></div>
+
 1. [Sign up for a Smart DNS account at Overplay.net](http://www.overplay.net/#a_aid=tvsolutions). Overplay allows your computer to pretend that it's in the UK. It will also pretend that it's in Ireland if you want to watch the RTE Player.
 2. Once your account is set up, visit the Smart DNS tab under [My Account](http://www.overplay.net/myaccount.php). There should be some text that reads...
 
