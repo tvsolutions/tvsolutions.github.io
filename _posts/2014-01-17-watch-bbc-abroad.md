@@ -4,6 +4,7 @@ title:  "How to watch UK TV outside of the UK for less than £3/month."
 date:   2014-01-17 00:00:00
 categories: bbc 4od itv overplay
 excerpt: Allowing your device to stream content from the UK can be challenging and confusing. We've found the simplest solution that will have you up and running in minutes.
+buy: http://www.overplay.net/#a_aid=tvsolutions
 ---
 
 1. [Sign up for a Smart DNS account at Overplay.net](http://www.overplay.net/#a_aid=tvsolutions). Overplay allows your computer to pretend that it's in the UK. It will also pretend that it's in Ireland if you want to watch the RTE Player.
@@ -17,4 +18,4 @@ excerpt: Allowing your device to stream content from the UK can be challenging a
 	- [OSX](http://overplay.net)
 4. Once you've completed this step visit [http://bbc.co.uk/iplayer](http://bbc.co.uk/iplayer) to check if it's worked.
 
-If you run into difficulty we at TV Solutions would be happy to help, just [contact us](/contact).
+If you run into difficulty we at TV Solutions would be happy to help, just [contact us](mailto:info@tvsolutions.ca).
