@@ -125,6 +125,13 @@ a:after {
   background-color: #687534;
 }
 
+.mailchimp {
+    text-align: left;
+}
+
+.mailchimp .powered {
+    font-size: 1.1rem;
+}
 
 .navbar {
 	font-weight: 800;
