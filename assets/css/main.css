@@ -144,6 +144,17 @@ a:after {
 	padding-bottom: 5px;
 }
 
+.navbar-social i {
+    color: #bdbdbd;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.navbar-social i:hover {
+    color: #819140;
+}
+
+
 .navbar-inverse {
 	background: #2d2d2d;
 	border-color: #2d2d2d;

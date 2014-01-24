@@ -31,9 +31,10 @@
 
   <body>
 
-    <!-- Fixed navbar -->
+   <!-- Fixed navbar -->
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
+
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon-bar"></span>
@@ -42,6 +43,8 @@
           </button>
           <a class="navbar-brand" href="/">TV SOLUTI<i class="fa fa-circle"></i>NS</a>
         </div>
+
+
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
             {% for page in site.pages %}
@@ -49,10 +52,16 @@
               <li><a href="{{ page.url }}">{{ page.title }}</a></li>
               {% endif %}
             {% endfor %}
-             <li><a href="mailto:info@tvsolutions.ca"><i class="fa fa-envelope-o"></i></a></li>
-            <!--<li><a data-toggle="modal" data-target="#myModal" href="#myModal"><i class="fa fa-envelope-o"></i></a></li>-->
+            <li><a href="mailto:info@tvsolutions.ca"><i class="fa fa-envelope-o"></i></a></li>
+            <li><a href="https://twitter.com/tvsolutions_ca"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.facebook.com/pages/TV-Solutions/169523353246887?ref=hl"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://www.youtube.com/channel/UC4Xn8P-vsDOZZFk5Yvz7NHA/feed?view_as=public"><i class="fa fa-youtube"></i></a></li>
+           <!--<li><a data-toggle="modal" data-target="#myModal" href="#myModal"><i class="fa fa-envelope-o"></i></a></li>-->
           </ul>
+
+          
         </div><!--/.nav-collapse -->
+
       </div>
     </div>
 
