@@ -13,9 +13,18 @@ buy: http://www.overplay.net/#a_aid=tvsolutions
 	> SmartDNS is enabled for your IP address in _XXXXX_. Please use DNS servers _XX.XX.XXX.XXX_ and _XX.XXX.XXX.XXX_ to grant access to all compatible websites regardless of location.
 
 	Make an note of both of the DNS server addresses, you'll need them shortly.
-3. Visit this page for information on how to set Overplay Smart DNS up with your specific computer/device.
-	- [Windows](http://overplay.net)
-	- [OSX](http://overplay.net)
+3. [Visit this page for information](https://www.overplay.net/setup.php) on how to set Overplay Smart DNS up with your specific computer/device.
+	- Windows
+	- OSX
+	- Linux
+	- Android
+	- iPhone
+	- Boxee
+	- Apple TV
+	- PS3
+	- XBox 360
+	- Roku
+
 4. Once you've completed this step visit [http://bbc.co.uk/iplayer](http://bbc.co.uk/iplayer) to check if it's worked.
 
 If you run into difficulty we at TV Solutions would be happy to help, just [contact us](mailto:info@tvsolutions.ca).
