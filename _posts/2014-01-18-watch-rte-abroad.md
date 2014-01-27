@@ -4,7 +4,9 @@ title:  "How to watch Irish TV outside of Ireland for less than €3.50/month."
 date:   2014-01-18 00:00:00
 categories: rte tg4 tv3 overplay
 excerpt: Allowing your device to stream content from Ireland can be challenging and confusing. We've found the simplest solution that will have you up and running in minutes.
-buy: http://www.overplay.net/#a_aid=tvsolutions
+buy: 
+  url: 'http://www.overplay.net/#a_aid=tvsolutions'
+  text: 'Sign up'
 ---
 
 <div class="centered"><img src="{{ site.url }}/assets/img/overplay-logo.png" class="img-responsive"/>

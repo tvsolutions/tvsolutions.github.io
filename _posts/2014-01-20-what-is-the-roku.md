@@ -4,7 +4,9 @@ title:  "What is the Roku Player?"
 date:   2014-01-20 00:00:00
 categories: roku
 excerpt: A simple explanation of the Roku player that will help you decide if it's the right streaming device for you and your TV watching needs.
-buy: http://roku.com
+buy: 
+  url: 'http://roku.com'
+  text: 'Buy a Roku'
 ---
 
 There are a plethora of Streaming TV Devices available today that allow you to watch TV, however, most of them are poorly funded, badly supported and require a very advanced technical knowledge to use and set up. The _Roku_, on the other hand, is a very **simple device** with a **beautiful interface**, a **large user base**, **great support** and a growing list of **channels/apps**. It's now being sold in many large electronics and big box stores in North America and Europe. 

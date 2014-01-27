@@ -4,7 +4,9 @@ title:  "How to watch UK TV outside of the UK for less than £3/month."
 date:   2014-01-17 00:00:00
 categories: bbc 4od itv overplay
 excerpt: Allowing your device to stream content from the UK can be challenging and confusing. We've found the simplest solution that will have you up and running in minutes.
-buy: http://www.overplay.net/#a_aid=tvsolutions
+buy: 
+  url: 'http://www.overplay.net/#a_aid=tvsolutions'
+  text: 'Sign up'
 ---
 
 <div class="centered"><img src="{{ site.url }}/assets/img/overplay-logo.png" class="img-responsive"/>

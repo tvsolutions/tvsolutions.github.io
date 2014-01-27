@@ -7,6 +7,7 @@ title: BLOG
 				<div class="col-lg-9">
   			    <h1>Blog</h1>
   			    <div class="row">
+  			    	{% assign counter=0 %}
   			    	{% for post in site.posts %}
 				    	<div class="col-lg-6">
 								<div class="post-list">
@@ -16,6 +17,11 @@ title: BLOG
 					      	<a href="{{ post.url }}" class="btn btn-green">Continue Reading <i class="fa fa-arrow-circle-right"></i></a> 
 					      </div>
 				    	</div>
+				    	{% assign counter=counter | plus:1 %} 
+				    	{% assign value=counter | modulo:2 %} 
+				    	{% if value == 0 %}
+				    		<div class="clearfix"></div>
+				    	{% endif %}		
 				    	{% endfor %}
 				   	</div>
 				</div>

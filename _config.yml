@@ -7,3 +7,5 @@ picture:
   source: "assets/img"
   output: "generated"
   markup: "picturefill"
+
+buy:

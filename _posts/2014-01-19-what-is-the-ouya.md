@@ -4,7 +4,9 @@ title:  "What is the OUYA?"
 date:   2014-01-19 08:14:57
 categories: ouya device
 excerpt: A simple explanation of the OUYA game console, that's also a powerful Streaming media device. You can decide if it's the right streaming device for you and your TV watching needs.
-buy: http://shop.ouya.tv/products/ouya-console
+buy: 
+  url: 'http://shop.ouya.tv/products/ouya-console'
+  text: 'Buy the OUYA'
 ---
 
 Beware that there are a lot of Android Devices out there that allow you to watch TV, however, most of them are poorly funded, badly supported and require a very advanced technical knowledge to use and set up. The OUYA is a very simple device with a beautiful interface, a large user base and great support.
