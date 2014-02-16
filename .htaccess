@@ -1,0 +1,5 @@
+======
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^tvsolutions\.ca
+RewriteRule ^(.*)$ http://www.tvsolutions.ca/$1 [R=permanent]
+======
