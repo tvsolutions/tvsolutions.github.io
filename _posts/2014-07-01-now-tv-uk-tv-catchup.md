@@ -7,6 +7,8 @@ buy:
   url: 'http://nowtv.com'
   text: 'Buy a NowTV'
 excerpt: If you're moving away from the UK or Ireland and want to ensure you can get the TV you love abroad, then you should pack a NowTV box in your suitcase before you leave.
+meta:
+  image: 'now-tv.jpg'
 ---
 
 I moved to Canada from Ireland back in 2004. Way back then there were very few options available if you wanted to catch up with TV from **back home**. Having your folks send you a DVD or VHS of Eastenders or Fair City was a good bet.
