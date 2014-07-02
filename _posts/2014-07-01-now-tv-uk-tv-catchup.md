@@ -2,14 +2,14 @@
 layout: post
 title:  "NowTV - the best way to catch up on UK TV abroad - only £10."
 date:   2014-07-01 00:00:00
-categories: nowtv uk ireland 
-buy: 
+categories: nowtv uk ireland
+buy:
   url: 'http://nowtv.com'
   text: 'Buy a NowTV'
 excerpt: If you're moving away from the UK or Ireland and want to ensure you can get the TV you love abroad, then you should pack a NowTV box in your suitcase before you leave.
 ---
 
-I moved to Canada from Ireland back in 2004. Way back then there were very few options available if you wanted to catch up with TV from **back home**. Having your folks send you a DVD or VHS of Eastenders or Fair City was a good bet. 
+I moved to Canada from Ireland back in 2004. Way back then there were very few options available if you wanted to catch up with TV from **back home**. Having your folks send you a DVD or VHS of Eastenders or Fair City was a good bet.
 
 Over the last 10 years there have been enormous leaps in the availability of content from all over the globe. Content is no longer restricted to physical borders.
 
@@ -26,7 +26,7 @@ Just like the Roku, in the box you'll find:
 - Power cable
 - Audio/Video cable
 
-<img src="{{ site.url }}/assets/img/now-tv.jpg" class="img-responsive" />
+<img src="/assets/img/now-tv.jpg" class="img-responsive" />
 <small>Credit: wired.co.uk</small>
 
 ## What Channels does it have?
