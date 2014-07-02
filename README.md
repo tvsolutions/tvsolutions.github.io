@@ -10,3 +10,8 @@ The commands are simple.
 
 ### Publish to GitHub
     rake publish
+
+### Push images etc
+You will also need to push images etc to Github so to do that, add and commit as usual and then run the following push command:
+
+    git push --all origin
