@@ -173,6 +173,7 @@ a:after {
 	font-weight: bolder;
 	font-size: 22px;
 	letter-spacing: 1px;
+  padding: 15px 15px 5px 15px;
 }
 
 .navbar-inverse .navbar-brand i {
@@ -612,4 +613,19 @@ height: 100%;
 
 .carousel-indicators li {
     border-color: #222;
+}
+
+h2.panel-title {
+  font-size: 1.4em;
+  font-weight: 600;
+}
+
+h2.panel-title i {
+  margin-right: 0.25em;
+}
+
+.call {
+  letter-spacing: 0.1px;
+  padding: 0 15px 10px 0;
+  display: inline-block;
 }
