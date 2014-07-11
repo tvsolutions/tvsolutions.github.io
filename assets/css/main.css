@@ -117,7 +117,8 @@ a:after {
     }
 
 .post.btn-green {
-    float:right;
+    display: block;
+    font-size: 20px;
     margin-top: 0;
 }
 
@@ -369,7 +370,7 @@ a:after {
 	font-weight: 700;
 }
 
-.w i {
+.w .main i {
 	color: #819140;
 	font-size: 30px;
 }
@@ -532,6 +533,10 @@ a:after {
     padding-bottom: 4rem;
 }
 
+.blog h1 {
+  font-weight: 700;
+}
+
 .blog #dg {
     padding: 1em;
 }
@@ -571,10 +576,15 @@ height: 100%;
 }
 
 #sidebar {
-    background: #fff;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
+}
+
+#sidebar .top {
+  border-top: 1px solid #819140;
+}
+
+#sidebar .block {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #819140;
 }
 
 #sidebar ul {
