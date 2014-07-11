@@ -587,6 +587,10 @@ height: 100%;
   border-bottom: 1px solid #819140;
 }
 
+#sidebar h3 {
+  font-weight: 500;
+}
+
 #sidebar ul {
     list-style: none;
     margin-left: 0;
