@@ -5,7 +5,7 @@ layout: page
 
   <div class="container page blog">
     <div class="row">
-      <div class="col-lg-8 col-lg-offset-2">
+      <div class="col-lg-9 main">
         <div class="post">
           {% if page.buy.url != empty %}
           <a href="{{ page.buy.url }}" class="post btn btn-green">{{ page.buy.text }} <i class="fa fa-shopping-cart"></i></a>
@@ -14,6 +14,11 @@ layout: page
           <h5><i class="fa fa-clock-o"></i> {{ page.date | date: '%B %d, %Y' }}</h5>
           {{ content }}
         </div>
+      </div>
+
+      <div class="col-lg-3 panel sidebar">
+        <h2>Recent Posts</h2>
+        {% include recent_posts.html %}
       </div>
     </div>
   </div>

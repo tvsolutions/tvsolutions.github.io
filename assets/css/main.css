@@ -587,6 +587,15 @@ height: 100%;
     margin-left: 0;
 }
 
+.recent-posts {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.recent-posts li {
+  list-style: none
+}
+
 #showbox-carousel {
     width: 480px;
     margin: 0 auto;
@@ -628,4 +637,8 @@ h2.panel-title i {
   letter-spacing: 0.1px;
   padding: 0 15px 10px 0;
   display: inline-block;
+}
+
+.at4-share-outer {
+  position: fixed !important;
 }
