@@ -65,6 +65,16 @@ ul, ol {
     margin: 0 auto;
 }
 
+figcaption {
+  color: #333;
+  position: relative;
+  top: -40px;
+  background: #FFF;
+  font-size: 15px;
+  padding: 2px 18px;
+  opacity: 0.75;
+}
+
 /* Links */
 a {
     color: #819140; /*#f85c37;*/
