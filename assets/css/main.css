@@ -151,8 +151,8 @@ a:after {
 .navbar {
 	font-weight: 800;
 	font-size: 18px;
-	padding-top: 15px;
-	padding-bottom: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 
 .navbar-social {
@@ -191,6 +191,10 @@ a:after {
 	color: #819140; /*#999999;*/
 	font-size: 22px;
 	letter-spacing: 1px;
+}
+
+.navbar-right {
+  padding-top: 10px;
 }
 
 /* ==========================================================================
