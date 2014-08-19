@@ -75,19 +75,19 @@ It's worth [getting the paid version](https://play.google.com/store/apps/details
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="https://www.evernote.com/shard/s234/sh/dedf44d9-6127-4a9c-b7af-fcdcd060c345/c33f7c8d877b522e46e78d194b0b580e/res/99742caa-d12d-4562-990d-1ffcbefb2e2e/18%20August%202014%20193158%20GMT-0700.jpg" />
+      <img src="/assets/img/allcast-1.jpg" />
       <div class="carousel-caption">
         1. Open the AllCast App and choose your device
       </div>
     </div>
     <div class="item">
-      <img src="https://www.evernote.com/shard/s234/sh/fd24d2a2-8071-434b-8dd6-e8938dedc3ef/824778d2b02087982d6d8bde1966c72e/res/5d6c8087-23d9-4f26-8128-a2174079a595/18%20August%202014%20193351%20GMT-0700.jpg" />
+      <img src="/assets/img/allcast-2.jpg" />
       <div class="carousel-caption">
         2. Choose the location of your files
       </div>
     </div>
     <div class="item">
-      <img src="https://www.evernote.com/shard/s234/sh/e9f1b4ac-432a-44d7-915d-b406765f19bb/be1ad4eb2fbe98cacc52564b35819b13/res/23c86699-bd06-40bc-b142-53fc2ae1fcbf/18%20August%202014%20193651%20GMT-0700.png" />
+      <img src="/assets/img/allcast-3.jpg" />
       <div class="carousel-caption">
         3. Choose videos and play a file
       </div>
@@ -103,7 +103,7 @@ It's worth [getting the paid version](https://play.google.com/store/apps/details
   </a>
 </div>
 
-You can also play files from:
+<br />You can also play files from:
 
 * Dropbox
 * Google Drive
