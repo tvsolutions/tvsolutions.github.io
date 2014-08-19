@@ -6,6 +6,8 @@ categories: plex xbmc
 buy:
   url: ''
 excerpt: If you've got kids you know that the TV in moderation can keep them busy while you get on with the chores. If you don't have a cable package, or you're on the move, there are a few options that can deliver kids content on demand.
+meta:
+  image: "/assets/img/dora.jpg"
 ---
 
 It's Sunday afternoon and you're trying to prepare lunches and meals for the week but the kids won't give you any peace. A good animated movie, some science lessons or just some Sponge Bob might be the perfect antidote for that nagging toddler. If you don't have an extensive cable package or a DVD collection, that isn't strewn all over the house, it might be difficult to find something for them to watch. There are a few solutions to make sure you're not stuck in the middle of a meltdown.

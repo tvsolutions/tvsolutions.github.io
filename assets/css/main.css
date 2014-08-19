@@ -563,6 +563,10 @@ a:after {
     padding: 1em;
 }
 
+.blog img.leader {
+  margin-bottom: 1.5rem;
+}
+
 .blog .post-list {
     margin-bottom: 5rem;
 }

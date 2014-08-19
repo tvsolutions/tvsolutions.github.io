@@ -20,7 +20,7 @@
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 {% endif %}
 {% if page.meta.image %}
-  <meta content="{{ site.url }}/assets/img/{{ page.meta.image }}" property="og:image">
+  <meta content="{{ site.url }}{{ page.meta.image }}" property="og:image">
 {% else %}
   <meta content="{{ site.url }}/assets/img/logo-high-resolution.png" property="og:image">
 {% endif %}

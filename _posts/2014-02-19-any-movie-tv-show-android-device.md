@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Stream any Movie or TV show to your TV from your Android Phone or Tablet - Amazing!"
+title:  "Stream any Movie or TV show to your TV from your Android Device"
 date:   2014-02-20 00:00:00
 categories: Android Chromecast Avia ShowBox
 excerpt: Imagine if you could access any Movie or TV show on your phone and then simply tell it to play on your TV. Well it's now possible. Follow our simple tutorial to get it up and running.
 buy:
   url: 'http://chromecast.com'
   text: 'Buy Chromecast'
+meta:
+  image: '/assets/img/showbox-leader.jpg'
 ---
 
 Imagine if you could access any Movie or TV show on your phone and then simply tell it to play on your TV. Well it's now possible. Follow our simple tutorial to get it up and running. This tutorial should take you **less than 10 minutes** to complete.
