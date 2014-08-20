@@ -551,6 +551,7 @@ a:after {
 
 .page h1 {
     padding-bottom: 2rem;
+    margin-top: 0;
 }
 
 /* == BLOG == */
