@@ -173,6 +173,8 @@ a:after {
 .navbar-inverse {
 	background: #2d2d2d;
 	border-color: #2d2d2d;
+  margin-bottom: 0;
+  padding-top: 1rem;
 }
 
 .navbar-inverse .navbar-nav > .active > a {
@@ -191,10 +193,6 @@ a:after {
 	color: #819140; /*#999999;*/
 	font-size: 22px;
 	letter-spacing: 1px;
-}
-
-.navbar-right {
-  padding-top: 10px;
 }
 
 /* ==========================================================================
@@ -262,7 +260,7 @@ a:after {
 
 #headerwrap {
 	background: url(../img/header-bg.jpg) no-repeat center top;
-	margin-top: -10px;
+	margin-top: -20px;
 	padding-top:20px;
 	text-align:center;
 	background-attachment: relative;
@@ -291,6 +289,12 @@ a:after {
 	font-size: 70px;
 	font-weight: 300;
 	letter-spacing: 3px;
+}
+
+@media only screen and (max-device-width: 500px) {
+  #headerwrap h1 {
+    font-size: 5rem;
+  }
 }
 
 #headerwrap h1 hr {
@@ -564,16 +568,27 @@ a:after {
 }
 
 .blog img.leader {
-  margin-bottom: 1.5rem;
+  /*margin-bottom: 1.5rem;*/
 }
 
 .blog .post-list {
     margin-bottom: 5rem;
 }
 
-    .blog .post-list h3 {
-        font-weight: bold;
-    }
+  .blog .post-list .content {
+    background: #fff;
+    padding: 2rem 1rem;
+  }
+
+  .blog .post-list .lead {
+    font-size: 1.8rem;
+  }
+
+  .blog .post-list h3 {
+    font-weight: bold;
+    font-size: 2.2rem;
+    margin-top: 0;
+  }
 
 
 .flex-video {
@@ -598,7 +613,9 @@ width: 100%;
 height: 100%;
 }
 @media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
-.flex-video { padding-top: 0; }
+
+  .flex-video { padding-top: 0; }
+
 }
 
 #sidebar {

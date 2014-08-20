@@ -11,13 +11,14 @@ title: BLOG
   			    	{% for post in site.posts %}
 							<div class="col-lg-6">
 								<div class="post-list">
-					    		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-									{% if post.meta.image %}
+					    		{% if post.meta.image %}
 									<img src="{{ post.meta.image }}" class="img-responsive leader" />
 									{% endif %}
-					    		<!-- <h5><i class="fa fa-clock-o"></i> {{ post.date | date: '%B %d, %Y' }}</h5> -->
-					      	<p class="lead">{{ post.excerpt }}</p>
-					      	<a href="{{ post.url }}" class="btn btn-green">Continue Reading <i class="fa fa-arrow-circle-right"></i></a>
+					    		<div class="content">
+										<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+										<p class="lead">{{ post.excerpt }}</p>
+						      	<a href="{{ post.url }}" class="btn btn-green">Continue Reading <i class="fa fa-arrow-circle-right"></i></a>
+									</div>
 					      </div>
 				    	</div>
 				    	{% assign counter=counter | plus:1 %}
