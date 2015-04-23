@@ -1,19 +1,20 @@
 ---
 layout: post
-title:  "How to watch UK TV outside of the UK for less than £3/month."
-date:   2014-01-17 00:00:00
+title: How to watch UK TV outside of the UK for less than £3/month.
+date: {}
 categories: bbc 4od itv overplay
-excerpt: Allowing your device to stream content from the UK can be challenging and confusing. We've found the simplest solution that will have you up and running in minutes.
+excerpt: "Allowing your device to stream content from the UK can be challenging and confusing. We've found the simplest solution that will have you up and running in minutes."
 buy: 
-  url: 'http://www.overplay.net/#a_aid=tvsolutions'
-  text: 'Sign up'
+  url: "http://www.overplay.net/#a_aid=tvsolutions"
+  text: Sign up
+published: true
 ---
 
 <div class="centered"><img src="{{ site.url }}/assets/img/overplay-logo.png" class="img-responsive"/>
 <small>Credit: overplay.net</small></div>
 
 1. [Sign up for a Smart DNS account at Overplay.net](http://www.overplay.net/#a_aid=tvsolutions). Overplay allows your computer to pretend that it's in the UK. It will also pretend that it's in Ireland if you want to watch the RTE Player.
-2. Once your account is set up, visit the Smart DNS tab under [My Account](http://www.overplay.net/myaccount.php). There should be some text that reads..
+2. Once your account is set up, visit the Smart DNS tab under [My Account](http://www.overplay.net/myaccount.php). There should be some text that reads...
 
 	> SmartDNS is enabled for your IP address in _XXXXX_. Please use DNS servers _XX.XX.XXX.XXX_ and _XX.XXX.XXX.XXX_ to grant access to all compatible websites regardless of location.
 
