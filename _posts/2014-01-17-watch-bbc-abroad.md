@@ -13,7 +13,7 @@ buy:
 <small>Credit: overplay.net</small></div>
 
 1. [Sign up for a Smart DNS account at Overplay.net](http://www.overplay.net/#a_aid=tvsolutions). Overplay allows your computer to pretend that it's in the UK. It will also pretend that it's in Ireland if you want to watch the RTE Player.
-2. Once your account is set up, visit the Smart DNS tab under [My Account](http://www.overplay.net/myaccount.php). There should be some text that reads...
+2. Once your account is set up, visit the Smart DNS tab under [My Account](http://www.overplay.net/myaccount.php). There should be some text that reads..
 
 	> SmartDNS is enabled for your IP address in _XXXXX_. Please use DNS servers _XX.XX.XXX.XXX_ and _XX.XXX.XXX.XXX_ to grant access to all compatible websites regardless of location.
 
